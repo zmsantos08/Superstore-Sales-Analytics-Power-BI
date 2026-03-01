@@ -65,8 +65,8 @@ conformed dimensions, and snowflake elements on the product dimension.
 | `Dimension Switcher` | Field Parameter | Dynamic dimension switcher (Region, State, City, Category, Sub-Category) |
 | `Price Increase Rate` | Calculated | GENERATESERIES 0–100% in steps of 10 |
 | `Tariff Rate` | Calculated | GENERATESERIES 0–100% in steps of 10 |
-| `ClusterMappingTable` | Calculated | K-Means clusters for products (6 clusters, 2025 data) |
-| `ClusterMappingTable 2` | Calculated | K-Means clusters for cities (4 clusters, 2025 data) |
+| `ClusterMappingTable` | Calculated | K-Means clusters for products (5 clusters, 2025 data) |
+| `ClusterMappingTable 2` | Calculated | K-Means clusters for cities (6 clusters, 2025 data) |
 | `Model Tables` | Metadata | `INFO.VIEW.TABLES()` with injected descriptions |
 | `Model Columns` | Metadata | `INFO.VIEW.COLUMNS()` with descriptions |
 | `Model Measures` | Metadata | `INFO.VIEW.MEASURES()` |
