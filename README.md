@@ -10,7 +10,7 @@ A fully documented, production-grade Power BI semantic model and report built on
 [![Live Report](https://img.shields.io/badge/Live%20Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNTQ2MTBiZTMtNmRiNy00MDlmLTlhZGUtNDc5YWQzZGQ5MmJiIiwidCI6ImM5M2IxYzk2LWJjYzMtNGZjYy04YWRmLTI0YjFmYjE4MGU0NyIsImMiOjl9&pageName=21dd967b652d00ed800c)
 
 
-<img width="1448" height="815" alt="image" src="https://github.com/user-attachments/assets/ca415b82-4688-448e-8515-d7ac891f4273" />
+<img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/4cbfaa0f-fc57-45e8-8c8d-a1e6bf8528c0" />
 
 ---
 
